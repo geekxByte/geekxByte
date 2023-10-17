@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/deepak-mishra-0a2219252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-mishra-0a2219252" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dee_mis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dee_mis" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/7247b2bc-55f8-47a9-97b4-a01a0b388336" target="blank"><img align="center" src="/Coding_Ninjas_logo.svg" alt="dee_mis" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mishra_deepak061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mishra_deepak061" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dee_mis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dee_mis" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dee_mis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dee_mis" height="30" width="40" /></a>
