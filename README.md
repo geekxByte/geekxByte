@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Software Development-related content**
 
 - 🤝 I’m looking for help with **Backend Technology**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **deepakkumar.2020@vitbhopal.ac.in**
 
